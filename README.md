@@ -1,4 +1,4 @@
-# LibFt (42 CURSUS)
+# **LibFt (42 CURSUS)**
 Coding some function from the C standard library and some others they will be used in future projects.
 
 **c_files** --> All files evaluated by Norminette and passed!!.
